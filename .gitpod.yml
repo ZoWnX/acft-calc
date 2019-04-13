@@ -1,0 +1,4 @@
+image: node:alpine
+
+ports:
+- port: 8080
